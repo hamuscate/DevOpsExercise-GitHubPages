@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Speaking DevOps and Microservices Team Exercise ",
-    "currentPage": "traditional.html",
+    "currentPage": "DevOpsExercise.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -42,7 +42,7 @@
       "settings": {
         "main": true,
         "title": "Speaking the language of DevOps and Microservices Exercise",
-        "meta_descr": "",
+        "meta_descr": "Home page.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
